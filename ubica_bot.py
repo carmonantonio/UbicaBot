@@ -52,7 +52,7 @@ def handle_updates(updates):
         items = db.get_items(chat)
         if text == "/historial":
             keyboard = build_keyboard(items)
-            send_message("Historial: (para seguir buscando información, dime más localidades colombiandas)", chat, keyboard)
+            send_message("Historial: (para seguir buscando información, dime más localidades colombianas)", chat, keyboard)
         elif text == "/start":
             send_message("Hola! Soy UbicaBot, un chatbot diseñado por Ignasi Oliver para Hack4Good. Te daré información de toda Colombia y la guardaré en una lista personal. Para verla, dime /historial.\nDónde te gustaría ir (Colombia)?", chat)
             db.add_item(text, chat)
