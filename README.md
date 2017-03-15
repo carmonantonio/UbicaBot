@@ -3,7 +3,7 @@
 <br>
 >Muchas gracias a [LUCA](https://www.luca-d3.com/) por galardonar este proyecto con el 3er premio en la [HackForGood](https://hackforgood.net/premios-hackforgood-globales-2017/)!
 <br>
-**Bot de Telegram que informa de la cantidad de turistas en los municipios de Colombia.**
+__Bot de Telegram que informa de la cantidad de turistas en los municipios de Colombia.__
 <br>
 Presentado en la [HackForGood 2017](http://hackforgood.net), dado un municipio colombiano, UbicaBot ofrece el número de personas que han visto dicho municipio y un análisis: si hay más o menos gente respecto la media de los dos meses anteriores.
 <br>
